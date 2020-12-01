@@ -1,4 +1,4 @@
-# CloudComputing_Dog_Breed_Recognition
+# CloudComputing - Dog Breed Recognition
 
 Authors: Jesse Borg, Sarah Gates, Luis Ahumada
 
