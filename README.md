@@ -1,10 +1,13 @@
-# CloudComputing - Dog Breed Recognition
+# CloudComputing_Dog_Breed_Recognition
 
 Authors: Jesse Borg, Sarah Gates, Luis Ahumada
 
 Files:
-- dog_breed.py (Image upload and model training).
-- 
+
+- Dog Breed Image Recognition.pdf (Report)
+- (PDF presentation)
+- dog_breed.py (Image upload and model training)
+- S3 Image.py (Image upload to S3 using boto3)
 
 The project was a machine learning project which aimed to classify different dog breeds from a number of images. The set of images was split into a training and testing set so that the program can learn which images belong to certain breeds. It will then try to classify the testing set and the quality of the program is indicated by the success rate of classification. For this project, instead of storing the images on a laptop and using downloaded programs to run the algorithms, the images will be stored online and Python will be run on an IDE (PyCharm)  using AWS.
 
