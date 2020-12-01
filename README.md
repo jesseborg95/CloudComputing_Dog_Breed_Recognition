@@ -13,11 +13,11 @@ The project was a machine learning project which aimed to classify different dog
 
 The data from this project was obtained from a predefined dataset which is included in python and is called ‘ Stanford Dogs Dataset’. This dataset was useful as it contained enough images to be able to train the program adequately, and its wide variety of dog breeds means that it will challenge the algorithm.
 The description of the dataset is as follows:
-    - Images of 120 breeds of dogs from around the world
-    - Number of categories: 120
-    - Number of images: 20,580    
-    - Annotations: Class labels, Bounding boxes
-    - Out of the 20,580 images, 12,000 will be used for training (58%) and 8,580 will be used for testing (42%).
+- Images of 120 breeds of dogs from around the world
+- Number of categories: 120
+- Number of images: 20,580 
+- Annotations: Class labels, Bounding boxes
+- Out of the 20,580 images, 12,000 will be used for training (58%) and 8,580 will be used for testing (42%).
 
 
 The model successfully classified the test set (8,580 images) with an accuracy of 0.8480 and a validation loss of 0.8236.
